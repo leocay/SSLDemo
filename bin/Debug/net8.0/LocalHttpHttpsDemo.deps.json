@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LocalHttpHttpsDemo/1.0.0": {
+        "runtime": {
+          "LocalHttpHttpsDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalHttpHttpsDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
