@@ -1,0 +1,34 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / IDE user state
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and local runtime files
+*.log
+*.pid
+server*.log
+server.pid
+
+# Local development certificates and private keys
+*.pfx
+*.p12
+*.key
+localhost-dev-cert.cer
+certs/*.cer
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Local-only app settings
+appsettings.Local.json
+appsettings.*.Local.json
